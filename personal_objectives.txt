@@ -1,0 +1,14 @@
+(Matthew)
+Prototype a Linux server environment on a virtual machine.
+Create an SQL database on the server.
+Port the server to on a microcomputer.
+Create a one way data link from the Arduino to the server.
+Handle JSON files incoming from the arduino, add them to the database via a script.
+
+(Patrick)
+Add data to the database relevant to the input data (Calories, Salt etc.).
+
+(Matthew, Patrick)
+Develop a website that can display this data onto a webpage.
+Establish a two way link between this webpage and the database, so that the user may edit values.
+Graph and filter this data.
