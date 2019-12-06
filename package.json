@@ -1,0 +1,16 @@
+{
+  "name": "senseplate-app",
+  "version": "1.0.0",
+  "description": "“Latest figures show that more than half of the UK population – 66% of men and\r 57% of women – are overweight or obese”. “Overweight and obesity are defined\r as abnormal or excessive fat accumulation that presents a risk to health.” In\r order to lose body fat, in combination with other healthy habits such as reducing\r dietary sugar and exercising regularly, calories (a shorthand term for kilocalorie)\r should be limited. An individual should eat no more than their Recommended Daily\r Allowance (RDA) of calories per day, 2500kcal for men and 2000kcal for women.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://MatthewSkingley@bitbucket.org/senseplate/senseplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/senseplate/senseplate#readme"
+}
