@@ -2,12 +2,8 @@
 <script>
 
 console.log('foods exists');
-Window.x = "<%= foods%>";
-console.log(Window.x)
 
 </script>
-<script src="/script.js"></script>
-<!-- <%= foods%> -->
 <% } %>
 
 <html lang="en">
@@ -21,5 +17,8 @@ console.log(Window.x)
 </head>
 
 <body>
+    <!-- foods go here, wonderfully pure JSON to format for the web -->
+    <%= foods%> 
+
 </body>
 </html>
